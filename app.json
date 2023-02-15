@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "compensa-usar-gasolina-ou-alcool",
+    "slug": "compensa-usar-gasolina-ou-alcool",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
